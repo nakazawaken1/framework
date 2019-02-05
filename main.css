@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+h1 {
+  margin: 0;
+  padding: 5pt 8pt;
+  background-color: #6eded4;
+}
+article {
+  padding: 5pt 8pt;
+}
+p {
+  text-indent: 0.8em;
+  line-height: 180%;
+}
